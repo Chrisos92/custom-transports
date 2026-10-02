@@ -1284,3 +1284,8 @@
 # Grand exchange agility shortcut									
 3142 3513 0	3137 3516 0	Climb-into Underwall tunnel 16530	21 Agility					3	
 3137 3516 0	3142 3513 0	Climb-into Underwall tunnel 16529	21 Agility					3	
+# Dwarf cannon quest								
+2570 3442 0	2570 3442 1	Climb-up Laddder 16683						1	
+2570 3442 1	2569 3443 2	Climb-up Laddder 11						1	
+2569 3443 2	2570 3442 1	Climb-down Laddder 11						1	
+2570 3442 1	2570 3442 0	Climb-down Laddder 16683						1	
